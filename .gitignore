@@ -1,4 +1,13 @@
-*.py
+__pycache__/
 !main.py
+*.log
+*.py
 *.sh
+baseline_engine.py
 BRIEF.md
+check.py
+elo.py
+engine.py
+pack.py
+r*_*.txt
+speed.py
