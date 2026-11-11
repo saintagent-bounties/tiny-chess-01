@@ -1,3 +1,4 @@
 *.py
 !main.py
 *.sh
+BRIEF.md
