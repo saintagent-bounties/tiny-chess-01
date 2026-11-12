@@ -11,3 +11,6 @@ engine.py
 pack.py
 r*_*.txt
 speed.py
+ablogs/
+__pycache__/
+book.json
